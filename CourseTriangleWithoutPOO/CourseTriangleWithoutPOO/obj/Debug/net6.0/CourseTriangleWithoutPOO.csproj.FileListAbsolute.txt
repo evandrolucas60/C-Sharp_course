@@ -1,0 +1,15 @@
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.csproj.AssemblyReference.cache
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.AssemblyInfoInputs.cache
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.AssemblyInfo.cs
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.csproj.CoreCompileInputs.cache
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\bin\Debug\net6.0\CourseTriangleWithoutPOO.exe
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\bin\Debug\net6.0\CourseTriangleWithoutPOO.deps.json
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\bin\Debug\net6.0\CourseTriangleWithoutPOO.runtimeconfig.json
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\bin\Debug\net6.0\CourseTriangleWithoutPOO.dll
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\bin\Debug\net6.0\CourseTriangleWithoutPOO.pdb
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.dll
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\refint\CourseTriangleWithoutPOO.dll
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.pdb
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\CourseTriangleWithoutPOO.genruntimeconfig.cache
+C:\temp\c-sharp_ws\CourseTriangleWithoutPOO\CourseTriangleWithoutPOO\obj\Debug\net6.0\ref\CourseTriangleWithoutPOO.dll
