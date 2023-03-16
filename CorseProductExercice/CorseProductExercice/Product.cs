@@ -8,41 +8,38 @@ using System.Threading.Tasks;
 namespace CorseProductExercice {
     internal class Product {
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        public double Preco { get; private set; } //auto propertie
+        public int Quantidade { get; private set; } //auto propertie
 
-        public Product() { }
+        public Product() { 
+        }
 
         public Product(string nome, double preco, int quantidade) {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
         //properties (encapsulamento)
         public string Nome {
             get { return _nome; }
-            set { _nome = value; }
-        }
-
-        public double Preco {
-            get { return _preco; }
-        }
-
-        public int Quantidade {
-            get { return _quantidade; }
+            set {
+                if (value != null && value.Length > 1) {
+                _nome = value;
+                }
+            }
         }
 
         public double ValorTotalEmEstoque() {
-            return _quantidade * _preco;
+            return Quantidade * Preco;
         }
 
         public void AdicionarProdutos(int quantidade) {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
 
         public void RemoverProdutos(int quantidade) {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
 
 
@@ -50,9 +47,9 @@ namespace CorseProductExercice {
         public override string ToString() {
             return _nome
                 + ", $ "
-                + _preco.ToString("F2", CultureInfo.InvariantCulture)
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
-                + _quantidade
+                + Quantidade
                 + " unidades, Total: $"
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
 
