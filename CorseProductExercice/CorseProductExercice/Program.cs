@@ -11,6 +11,7 @@ namespace CorseProductExercice {
             Console.Write("Quantidade no estoque: ");
             int quantidade = int.Parse(Console.ReadLine());
 
+
             Product p = new Product(nome, preco, quantidade);
 
 
