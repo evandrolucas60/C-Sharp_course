@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ModificadorParams {
     class Program {
         static void Main(string[] args) {
-            int Sum1 = Calculator.Sum(new int[] { 5, 5, 5 });
+            int Sum1 = Calculator.Sum( 5, 5, 5 );
             
             Console.WriteLine(Sum1);
         }
