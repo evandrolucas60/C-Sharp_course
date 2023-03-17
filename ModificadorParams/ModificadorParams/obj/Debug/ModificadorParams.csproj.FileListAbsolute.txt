@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorParams\ModificadorParams\bin\Debug\ModificadorParams.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorParams\ModificadorParams\bin\Debug\ModificadorParams.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorParams\ModificadorParams\bin\Debug\ModificadorParams.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorParams\ModificadorParams\obj\Debug\ModificadorParams.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorParams\ModificadorParams\obj\Debug\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorParams\ModificadorParams\obj\Debug\ModificadorParams.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorParams\ModificadorParams\obj\Debug\ModificadorParams.pdb
