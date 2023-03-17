@@ -1,0 +1,6 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorOut\ModificadorOut\bin\Debug\ModificadorOut.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorOut\ModificadorOut\bin\Debug\ModificadorOut.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorOut\ModificadorOut\bin\Debug\ModificadorOut.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorOut\ModificadorOut\obj\Debug\ModificadorOut.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorOut\ModificadorOut\obj\Debug\ModificadorOut.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorOut\ModificadorOut\obj\Debug\ModificadorOut.pdb
