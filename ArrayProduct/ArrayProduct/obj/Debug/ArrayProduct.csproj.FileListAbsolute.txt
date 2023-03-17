@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ArrayProduct\ArrayProduct\bin\Debug\ArrayProduct.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ArrayProduct\ArrayProduct\bin\Debug\ArrayProduct.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ArrayProduct\ArrayProduct\bin\Debug\ArrayProduct.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ArrayProduct\ArrayProduct\obj\Debug\ArrayProduct.pdb
