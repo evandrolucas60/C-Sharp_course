@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorRef\ModificadorRef\bin\Debug\ModificadorRef.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorRef\ModificadorRef\bin\Debug\ModificadorRef.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorRef\ModificadorRef\bin\Debug\ModificadorRef.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ModificadorRef\ModificadorRef\obj\Debug\ModificadorRef.pdb
