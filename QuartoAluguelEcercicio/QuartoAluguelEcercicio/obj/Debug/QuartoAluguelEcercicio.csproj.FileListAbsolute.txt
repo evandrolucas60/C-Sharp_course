@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\QuartoAluguelEcercicio\QuartoAluguelEcercicio\bin\Debug\QuartoAluguelEcercicio.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\QuartoAluguelEcercicio\QuartoAluguelEcercicio\bin\Debug\QuartoAluguelEcercicio.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\QuartoAluguelEcercicio\QuartoAluguelEcercicio\bin\Debug\QuartoAluguelEcercicio.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\QuartoAluguelEcercicio\QuartoAluguelEcercicio\obj\Debug\QuartoAluguelEcercicio.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\QuartoAluguelEcercicio\QuartoAluguelEcercicio\obj\Debug\QuartoAluguelEcercicio.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\QuartoAluguelEcercicio\QuartoAluguelEcercicio\obj\Debug\QuartoAluguelEcercicio.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\QuartoAluguelEcercicio\QuartoAluguelEcercicio\obj\Debug\QuartoAluguelEcercicio.pdb
