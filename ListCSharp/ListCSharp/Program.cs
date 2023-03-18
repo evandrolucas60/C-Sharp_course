@@ -18,12 +18,9 @@ namespace ListCSharp {
 
             Console.WriteLine( "list count: " + list.Count);
 
-            String s1 = list.Find(Test);
+            String s1 = list.Find(x => x[0] == 'A');
             Console.WriteLine("First 'A': " + s1);
         }
 
-        static bool Test(String s) {
-            return s[0] == 'A';
-        }
     }
 }
