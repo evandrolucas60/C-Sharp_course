@@ -1,0 +1,15 @@
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\bin\Debug\net6.0\ListCSharp.exe
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\bin\Debug\net6.0\ListCSharp.deps.json
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\bin\Debug\net6.0\ListCSharp.runtimeconfig.json
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\bin\Debug\net6.0\ListCSharp.dll
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\bin\Debug\net6.0\ListCSharp.pdb
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.csproj.AssemblyReference.cache
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.AssemblyInfoInputs.cache
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.AssemblyInfo.cs
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.csproj.CoreCompileInputs.cache
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.dll
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\refint\ListCSharp.dll
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.pdb
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ListCSharp.genruntimeconfig.cache
+C:\temp\c-sharp_ws\ListCSharp\ListCSharp\obj\Debug\net6.0\ref\ListCSharp.dll
