@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ObjectTimeSpan\ObjectTimeSpan\bin\Debug\ObjectTimeSpan.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ObjectTimeSpan\ObjectTimeSpan\bin\Debug\ObjectTimeSpan.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ObjectTimeSpan\ObjectTimeSpan\bin\Debug\ObjectTimeSpan.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ObjectTimeSpan\ObjectTimeSpan\obj\Debug\ObjectTimeSpan.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ObjectTimeSpan\ObjectTimeSpan\obj\Debug\ObjectTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ObjectTimeSpan\ObjectTimeSpan\obj\Debug\ObjectTimeSpan.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ObjectTimeSpan\ObjectTimeSpan\obj\Debug\ObjectTimeSpan.pdb
