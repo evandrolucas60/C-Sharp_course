@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComTimeSpan\PropriedadesEOperacoesComTimeSpan\bin\Debug\PropriedadesEOperacoesComTimeSpan.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComTimeSpan\PropriedadesEOperacoesComTimeSpan\bin\Debug\PropriedadesEOperacoesComTimeSpan.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComTimeSpan\PropriedadesEOperacoesComTimeSpan\bin\Debug\PropriedadesEOperacoesComTimeSpan.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComTimeSpan\PropriedadesEOperacoesComTimeSpan\obj\Debug\PropriedadesEOperacoesComTimeSpan.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComTimeSpan\PropriedadesEOperacoesComTimeSpan\obj\Debug\PropriedadesEOperacoesComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComTimeSpan\PropriedadesEOperacoesComTimeSpan\obj\Debug\PropriedadesEOperacoesComTimeSpan.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComTimeSpan\PropriedadesEOperacoesComTimeSpan\obj\Debug\PropriedadesEOperacoesComTimeSpan.pdb
