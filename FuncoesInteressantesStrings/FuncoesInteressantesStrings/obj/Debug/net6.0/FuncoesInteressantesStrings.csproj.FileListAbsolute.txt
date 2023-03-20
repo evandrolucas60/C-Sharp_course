@@ -1,0 +1,15 @@
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\bin\Debug\net6.0\FuncoesInteressantesStrings.exe
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\bin\Debug\net6.0\FuncoesInteressantesStrings.deps.json
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\bin\Debug\net6.0\FuncoesInteressantesStrings.runtimeconfig.json
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\bin\Debug\net6.0\FuncoesInteressantesStrings.dll
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\bin\Debug\net6.0\FuncoesInteressantesStrings.pdb
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.csproj.AssemblyReference.cache
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.AssemblyInfoInputs.cache
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.AssemblyInfo.cs
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.csproj.CoreCompileInputs.cache
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.dll
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\refint\FuncoesInteressantesStrings.dll
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.pdb
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\FuncoesInteressantesStrings.genruntimeconfig.cache
+C:\temp\c-sharp_ws\FuncoesInteressantesStrings\FuncoesInteressantesStrings\obj\Debug\net6.0\ref\FuncoesInteressantesStrings.dll
