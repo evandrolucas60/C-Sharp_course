@@ -1,0 +1,15 @@
+C:\temp\c-sharp_ws\DataObject\DataObject\bin\Debug\net6.0\DataObject.exe
+C:\temp\c-sharp_ws\DataObject\DataObject\bin\Debug\net6.0\DataObject.deps.json
+C:\temp\c-sharp_ws\DataObject\DataObject\bin\Debug\net6.0\DataObject.runtimeconfig.json
+C:\temp\c-sharp_ws\DataObject\DataObject\bin\Debug\net6.0\DataObject.dll
+C:\temp\c-sharp_ws\DataObject\DataObject\bin\Debug\net6.0\DataObject.pdb
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.csproj.AssemblyReference.cache
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.AssemblyInfoInputs.cache
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.AssemblyInfo.cs
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.csproj.CoreCompileInputs.cache
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.dll
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\refint\DataObject.dll
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.pdb
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\DataObject.genruntimeconfig.cache
+C:\temp\c-sharp_ws\DataObject\DataObject\obj\Debug\net6.0\ref\DataObject.dll
