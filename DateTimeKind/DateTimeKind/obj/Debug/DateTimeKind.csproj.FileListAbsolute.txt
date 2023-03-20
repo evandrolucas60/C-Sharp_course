@@ -1,0 +1,6 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DateTimeKind\DateTimeKind\bin\Debug\DateTimeKind.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DateTimeKind\DateTimeKind\bin\Debug\DateTimeKind.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DateTimeKind\DateTimeKind\bin\Debug\DateTimeKind.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DateTimeKind\DateTimeKind\obj\Debug\DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DateTimeKind\DateTimeKind\obj\Debug\DateTimeKind.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DateTimeKind\DateTimeKind\obj\Debug\DateTimeKind.pdb
