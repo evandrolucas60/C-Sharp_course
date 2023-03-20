@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\PropriedadesEOperacoesComDateTime.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\PropriedadesEOperacoesComDateTime.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\bin\Debug\PropriedadesEOperacoesComDateTime.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\PropriedadesEOperacoesComDateTime.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\PropriedadesEOperacoesComDateTime.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\PropriedadesEOperacoesComDateTime.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PropriedadesEOperacoesComDateTime\PropriedadesEOperacoesComDateTime\obj\Debug\PropriedadesEOperacoesComDateTime.pdb
