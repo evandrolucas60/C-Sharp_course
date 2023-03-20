@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\EnumCsharp\EnumCsharp\bin\Debug\EnumCsharp.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\EnumCsharp\EnumCsharp\bin\Debug\EnumCsharp.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\EnumCsharp\EnumCsharp\bin\Debug\EnumCsharp.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\EnumCsharp\EnumCsharp\obj\Debug\EnumCsharp.pdb
