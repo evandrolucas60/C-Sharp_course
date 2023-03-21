@@ -23,7 +23,6 @@ namespace EnumCsharp
             Console.WriteLine(os);
             Console.WriteLine(txt);
             */
-
         }
     }
 }
