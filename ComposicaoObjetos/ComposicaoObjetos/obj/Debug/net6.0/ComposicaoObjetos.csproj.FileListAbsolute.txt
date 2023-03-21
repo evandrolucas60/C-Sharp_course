@@ -1,0 +1,15 @@
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\bin\Debug\net6.0\ComposicaoObjetos.exe
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\bin\Debug\net6.0\ComposicaoObjetos.deps.json
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\bin\Debug\net6.0\ComposicaoObjetos.runtimeconfig.json
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\bin\Debug\net6.0\ComposicaoObjetos.dll
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\bin\Debug\net6.0\ComposicaoObjetos.pdb
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.csproj.AssemblyReference.cache
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.AssemblyInfoInputs.cache
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.AssemblyInfo.cs
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.csproj.CoreCompileInputs.cache
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.dll
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\refint\ComposicaoObjetos.dll
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.pdb
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ComposicaoObjetos.genruntimeconfig.cache
+C:\temp\c-sharp_ws\ComposicaoObjetos\ComposicaoObjetos\obj\Debug\net6.0\ref\ComposicaoObjetos.dll
