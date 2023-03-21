@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ProductOrder\ProductOrder\bin\Debug\ProductOrder.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ProductOrder\ProductOrder\bin\Debug\ProductOrder.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ProductOrder\ProductOrder\bin\Debug\ProductOrder.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ProductOrder\ProductOrder\obj\Debug\ProductOrder.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ProductOrder\ProductOrder\obj\Debug\ProductOrder.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ProductOrder\ProductOrder\obj\Debug\ProductOrder.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ProductOrder\ProductOrder\obj\Debug\ProductOrder.pdb
