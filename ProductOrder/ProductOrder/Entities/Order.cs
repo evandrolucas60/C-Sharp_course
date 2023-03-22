@@ -47,7 +47,7 @@ namespace ProductOrder.Entities
 
             foreach (OrderItem item in Itens)
             {
-                sum = item.SubTotal();
+                sum += item.SubTotal();
             }
 
             return sum;
@@ -63,7 +63,7 @@ namespace ProductOrder.Entities
             sb.AppendLine("Order items: ");
             foreach (OrderItem item in Itens)
             {
-                Console.WriteLine(item.ToString());
+                sb.AppendLine(item.ToString());
             }
             sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
 

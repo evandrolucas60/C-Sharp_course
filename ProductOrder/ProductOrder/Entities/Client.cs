@@ -30,7 +30,7 @@ namespace ProductOrder.Entities
             return "Client: "
                     + Name
                     + " ("
-                    + BirthDate
+                    + BirthDate.ToString("dd/MM/yyyy")
                     +") "
                     + " - "
                     + Email;

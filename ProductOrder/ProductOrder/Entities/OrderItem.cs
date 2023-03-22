@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace ProductOrder.Entities
 {
@@ -35,12 +32,12 @@ namespace ProductOrder.Entities
         {
             return Product.Name
                 + ", $"
-                + Price
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
                 + ", Quantity: " 
                 + ", "
-                + Quantity
+                + Quantity.ToString("F2", CultureInfo.InvariantCulture)
                 + " Subtotal: $"
-                + SubTotal();
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
         }   
     }
 }
