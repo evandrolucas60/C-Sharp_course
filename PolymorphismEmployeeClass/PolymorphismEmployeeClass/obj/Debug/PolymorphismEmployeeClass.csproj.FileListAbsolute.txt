@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PolymorphismEmployeeClass\PolymorphismEmployeeClass\bin\Debug\PolymorphismEmployeeClass.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PolymorphismEmployeeClass\PolymorphismEmployeeClass\bin\Debug\PolymorphismEmployeeClass.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PolymorphismEmployeeClass\PolymorphismEmployeeClass\bin\Debug\PolymorphismEmployeeClass.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PolymorphismEmployeeClass\PolymorphismEmployeeClass\obj\Debug\PolymorphismEmployeeClass.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PolymorphismEmployeeClass\PolymorphismEmployeeClass\obj\Debug\PolymorphismEmployeeClass.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PolymorphismEmployeeClass\PolymorphismEmployeeClass\obj\Debug\PolymorphismEmployeeClass.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PolymorphismEmployeeClass\PolymorphismEmployeeClass\obj\Debug\PolymorphismEmployeeClass.pdb
