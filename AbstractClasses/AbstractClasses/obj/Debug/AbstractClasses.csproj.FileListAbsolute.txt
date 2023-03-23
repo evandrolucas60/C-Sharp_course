@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
