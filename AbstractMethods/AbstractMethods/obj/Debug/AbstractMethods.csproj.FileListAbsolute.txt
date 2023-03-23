@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractMethods\AbstractMethods\bin\Debug\AbstractMethods.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\AbstractMethods\AbstractMethods\obj\Debug\AbstractMethods.pdb
