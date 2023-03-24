@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ReservationClassTryCatchBlock\ReservationClassTryCatchBlock\bin\Debug\ReservationClassTryCatchBlock.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ReservationClassTryCatchBlock\ReservationClassTryCatchBlock\bin\Debug\ReservationClassTryCatchBlock.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ReservationClassTryCatchBlock\ReservationClassTryCatchBlock\bin\Debug\ReservationClassTryCatchBlock.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ReservationClassTryCatchBlock\ReservationClassTryCatchBlock\obj\Debug\ReservationClassTryCatchBlock.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ReservationClassTryCatchBlock\ReservationClassTryCatchBlock\obj\Debug\ReservationClassTryCatchBlock.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ReservationClassTryCatchBlock\ReservationClassTryCatchBlock\obj\Debug\ReservationClassTryCatchBlock.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ReservationClassTryCatchBlock\ReservationClassTryCatchBlock\obj\Debug\ReservationClassTryCatchBlock.pdb
