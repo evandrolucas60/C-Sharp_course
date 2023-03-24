@@ -29,10 +29,21 @@ namespace ReservationClassTryCatchBlock.Entities
             return (int)duration.TotalDays;
         }
 
-        public void UpdateDates(DateTime checkIn, DateTime checkOut)
+        public String UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                return "Reservation dates for update must be future dates";
+            }
+            else if (checkOut <= checkIn)
+            {
+                return "Check-out date must be after check-in date";
+            }
+
             CheckIn = checkIn;
             CheckOut = checkOut;
+            return null;
         }
 
         public override string ToString()
