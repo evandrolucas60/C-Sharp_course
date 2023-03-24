@@ -1,0 +1,6 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\BlocoFinally\BlocoFinally\bin\Debug\BlocoFinally.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\BlocoFinally\BlocoFinally\bin\Debug\BlocoFinally.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\BlocoFinally\BlocoFinally\bin\Debug\BlocoFinally.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\BlocoFinally\BlocoFinally\obj\Debug\BlocoFinally.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\BlocoFinally\BlocoFinally\obj\Debug\BlocoFinally.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\BlocoFinally\BlocoFinally\obj\Debug\BlocoFinally.pdb
