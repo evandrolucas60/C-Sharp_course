@@ -1,0 +1,15 @@
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.exe
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.deps.json
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.runtimeconfig.json
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.dll
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net6.0\FileStreamEStreamReader.pdb
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.csproj.AssemblyReference.cache
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.AssemblyInfoInputs.cache
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.AssemblyInfo.cs
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.csproj.CoreCompileInputs.cache
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.dll
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\refint\FileStreamEStreamReader.dll
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.pdb
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\FileStreamEStreamReader.genruntimeconfig.cache
+C:\temp\c-sharp_ws\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net6.0\ref\FileStreamEStreamReader.dll
