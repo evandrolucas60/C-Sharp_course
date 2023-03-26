@@ -1,0 +1,15 @@
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\bin\Debug\net6.0\UsingBlockExample.exe
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\bin\Debug\net6.0\UsingBlockExample.deps.json
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\bin\Debug\net6.0\UsingBlockExample.runtimeconfig.json
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\bin\Debug\net6.0\UsingBlockExample.dll
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\bin\Debug\net6.0\UsingBlockExample.pdb
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.csproj.AssemblyReference.cache
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.AssemblyInfoInputs.cache
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.AssemblyInfo.cs
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.csproj.CoreCompileInputs.cache
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.dll
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\refint\UsingBlockExample.dll
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.pdb
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\UsingBlockExample.genruntimeconfig.cache
+C:\temp\c-sharp_ws\UsingBlockExample\UsingBlockExample\obj\Debug\net6.0\ref\UsingBlockExample.dll
