@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DiretoryEDiretoryInfo\DiretoryEDiretoryInfo\bin\Debug\DiretoryEDiretoryInfo.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DiretoryEDiretoryInfo\DiretoryEDiretoryInfo\bin\Debug\DiretoryEDiretoryInfo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DiretoryEDiretoryInfo\DiretoryEDiretoryInfo\bin\Debug\DiretoryEDiretoryInfo.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DiretoryEDiretoryInfo\DiretoryEDiretoryInfo\obj\Debug\DiretoryEDiretoryInfo.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DiretoryEDiretoryInfo\DiretoryEDiretoryInfo\obj\Debug\DiretoryEDiretoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DiretoryEDiretoryInfo\DiretoryEDiretoryInfo\obj\Debug\DiretoryEDiretoryInfo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DiretoryEDiretoryInfo\DiretoryEDiretoryInfo\obj\Debug\DiretoryEDiretoryInfo.pdb
