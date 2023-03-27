@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\StreamWriteExample\StreamWriteExample\bin\Debug\StreamWriteExample.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\StreamWriteExample\StreamWriteExample\bin\Debug\StreamWriteExample.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\StreamWriteExample\StreamWriteExample\bin\Debug\StreamWriteExample.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\StreamWriteExample\StreamWriteExample\obj\Debug\StreamWriteExample.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\StreamWriteExample\StreamWriteExample\obj\Debug\StreamWriteExample.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\StreamWriteExample\StreamWriteExample\obj\Debug\StreamWriteExample.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\StreamWriteExample\StreamWriteExample\obj\Debug\StreamWriteExample.pdb
