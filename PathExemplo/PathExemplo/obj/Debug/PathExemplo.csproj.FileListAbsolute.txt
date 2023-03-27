@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PathExemplo\PathExemplo\bin\Debug\PathExemplo.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PathExemplo\PathExemplo\bin\Debug\PathExemplo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PathExemplo\PathExemplo\bin\Debug\PathExemplo.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PathExemplo\PathExemplo\obj\Debug\PathExemplo.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PathExemplo\PathExemplo\obj\Debug\PathExemplo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PathExemplo\PathExemplo\obj\Debug\PathExemplo.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\PathExemplo\PathExemplo\obj\Debug\PathExemplo.csproj.AssemblyReference.cache
