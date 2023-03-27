@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\FilesExercicioFixacao.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\FilesExercicioFixacao.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\FilesExercicioFixacao\FilesExercicioFixacao\bin\Debug\FilesExercicioFixacao.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\FilesExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\FilesExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\FilesExercicioFixacao.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\FilesExercicioFixacao\FilesExercicioFixacao\obj\Debug\FilesExercicioFixacao.pdb
