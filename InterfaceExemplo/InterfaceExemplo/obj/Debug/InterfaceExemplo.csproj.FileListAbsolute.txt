@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceExemplo\InterfaceExemplo\bin\Debug\InterfaceExemplo.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceExemplo\InterfaceExemplo\bin\Debug\InterfaceExemplo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceExemplo\InterfaceExemplo\bin\Debug\InterfaceExemplo.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceExemplo\InterfaceExemplo\obj\Debug\InterfaceExemplo.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceExemplo\InterfaceExemplo\obj\Debug\InterfaceExemplo.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceExemplo\InterfaceExemplo\obj\Debug\InterfaceExemplo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceExemplo\InterfaceExemplo\obj\Debug\InterfaceExemplo.pdb

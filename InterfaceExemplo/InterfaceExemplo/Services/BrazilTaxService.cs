@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InterfaceExemplo.Services
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxServices
     {
         public double Tax(double amount)
         {
