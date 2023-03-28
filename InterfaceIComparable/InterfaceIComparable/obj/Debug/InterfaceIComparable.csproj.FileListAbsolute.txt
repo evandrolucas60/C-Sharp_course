@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceIComparable\InterfaceIComparable\bin\Debug\InterfaceIComparable.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceIComparable\InterfaceIComparable\bin\Debug\InterfaceIComparable.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceIComparable\InterfaceIComparable\bin\Debug\InterfaceIComparable.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceIComparable\InterfaceIComparable\obj\Debug\InterfaceIComparable.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceIComparable\InterfaceIComparable\obj\Debug\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceIComparable\InterfaceIComparable\obj\Debug\InterfaceIComparable.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\InterfaceIComparable\InterfaceIComparable\obj\Debug\InterfaceIComparable.pdb
