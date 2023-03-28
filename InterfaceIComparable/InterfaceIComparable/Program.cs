@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using InterfaceIComparable.Entities;
 
 namespace InterfaceIComparable
 {
@@ -8,21 +9,21 @@ namespace InterfaceIComparable
     {
         static void Main(string[] args)
         {
-            String path = @"C:\temp\myFolder\file3.txt";
+            String path = @"C:\temp\myFolder\file4.txt";
 
             try
             {
                 using (StreamReader sr = File.OpenText(path))
                 {
-                    List<String> list = new List<string>();
+                    List<Employee> list = new List<Employee>();
                     while (!sr.EndOfStream)
                     {
-                        list.Add(sr.ReadLine());
+                        list.Add(new Employee(sr.ReadLine()));
                     }
                     list.Sort(); //ordenar a lista
-                    foreach (String str in list)
+                    foreach (Employee emp in list)
                     {
-                        Console.WriteLine(str);
+                        Console.WriteLine(emp);
                     }
                 }
 
