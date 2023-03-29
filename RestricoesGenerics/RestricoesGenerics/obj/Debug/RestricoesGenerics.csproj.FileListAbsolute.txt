@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\RestricoesGenerics\RestricoesGenerics\bin\Debug\RestricoesGenerics.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\RestricoesGenerics\RestricoesGenerics\bin\Debug\RestricoesGenerics.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\RestricoesGenerics\RestricoesGenerics\bin\Debug\RestricoesGenerics.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\RestricoesGenerics\RestricoesGenerics\obj\Debug\RestricoesGenerics.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\RestricoesGenerics\RestricoesGenerics\obj\Debug\RestricoesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\RestricoesGenerics\RestricoesGenerics\obj\Debug\RestricoesGenerics.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\RestricoesGenerics\RestricoesGenerics\obj\Debug\RestricoesGenerics.pdb
