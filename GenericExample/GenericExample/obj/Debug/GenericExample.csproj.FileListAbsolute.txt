@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GenericExample\GenericExample\bin\Debug\GenericExample.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GenericExample\GenericExample\obj\Debug\GenericExample.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GenericExample\GenericExample\obj\Debug\GenericExample.pdb
