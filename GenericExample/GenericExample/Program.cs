@@ -6,7 +6,7 @@ namespace GenericExample
     {
         static void Main(string[] args)
         {
-            PrintService printService = new PrintService();
+            PrintService<int> printService = new PrintService<int>();//adiciona o tipo do objeto  neste caso <int>
             Console.Write("How many values: ");
             int n = int.Parse(Console.ReadLine());
 
@@ -15,6 +15,7 @@ namespace GenericExample
                 int x = int.Parse(Console.ReadLine());
                 printService.AddValue(x);
             }
+
 
             printService.Print();
             Console.WriteLine("First: " + printService.First());
