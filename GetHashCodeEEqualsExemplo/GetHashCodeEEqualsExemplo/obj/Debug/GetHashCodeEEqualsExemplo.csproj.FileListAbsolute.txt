@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GetHashCodeEEqualsExemplo\GetHashCodeEEqualsExemplo\bin\Debug\GetHashCodeEEqualsExemplo.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GetHashCodeEEqualsExemplo\GetHashCodeEEqualsExemplo\bin\Debug\GetHashCodeEEqualsExemplo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GetHashCodeEEqualsExemplo\GetHashCodeEEqualsExemplo\bin\Debug\GetHashCodeEEqualsExemplo.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GetHashCodeEEqualsExemplo\GetHashCodeEEqualsExemplo\obj\Debug\GetHashCodeEEqualsExemplo.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GetHashCodeEEqualsExemplo\GetHashCodeEEqualsExemplo\obj\Debug\GetHashCodeEEqualsExemplo.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GetHashCodeEEqualsExemplo\GetHashCodeEEqualsExemplo\obj\Debug\GetHashCodeEEqualsExemplo.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\GetHashCodeEEqualsExemplo\GetHashCodeEEqualsExemplo\obj\Debug\GetHashCodeEEqualsExemplo.pdb
