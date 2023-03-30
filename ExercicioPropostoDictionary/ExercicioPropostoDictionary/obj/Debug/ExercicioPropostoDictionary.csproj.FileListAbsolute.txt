@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\ExercicioPropostoDictionary.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\ExercicioPropostoDictionary.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoDictionary\ExercicioPropostoDictionary\bin\Debug\ExercicioPropostoDictionary.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\ExercicioPropostoDictionary.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\ExercicioPropostoDictionary.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\ExercicioPropostoDictionary.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoDictionary\ExercicioPropostoDictionary\obj\Debug\ExercicioPropostoDictionary.pdb
