@@ -1,0 +1,6 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSetESortedSetParte2\HashSetESortedSetParte2\bin\Debug\HashSetESortedSetParte2.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSetESortedSetParte2\HashSetESortedSetParte2\bin\Debug\HashSetESortedSetParte2.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSetESortedSetParte2\HashSetESortedSetParte2\bin\Debug\HashSetESortedSetParte2.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSetESortedSetParte2\HashSetESortedSetParte2\obj\Debug\HashSetESortedSetParte2.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSetESortedSetParte2\HashSetESortedSetParte2\obj\Debug\HashSetESortedSetParte2.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSetESortedSetParte2\HashSetESortedSetParte2\obj\Debug\HashSetESortedSetParte2.pdb
