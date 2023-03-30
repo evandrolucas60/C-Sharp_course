@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSertESortedSet\HashSertESortedSet\bin\Debug\HashSertESortedSet.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSertESortedSet\HashSertESortedSet\bin\Debug\HashSertESortedSet.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSertESortedSet\HashSertESortedSet\bin\Debug\HashSertESortedSet.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSertESortedSet\HashSertESortedSet\obj\Debug\HashSertESortedSet.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSertESortedSet\HashSertESortedSet\obj\Debug\HashSertESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSertESortedSet\HashSertESortedSet\obj\Debug\HashSertESortedSet.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\HashSertESortedSet\HashSertESortedSet\obj\Debug\HashSertESortedSet.pdb
