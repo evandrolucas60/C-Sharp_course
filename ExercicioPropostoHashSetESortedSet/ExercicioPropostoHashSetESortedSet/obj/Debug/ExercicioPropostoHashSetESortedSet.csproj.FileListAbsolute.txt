@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoHashSetESortedSet\ExercicioPropostoHashSetESortedSet\bin\Debug\ExercicioPropostoHashSetESortedSet.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoHashSetESortedSet\ExercicioPropostoHashSetESortedSet\bin\Debug\ExercicioPropostoHashSetESortedSet.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoHashSetESortedSet\ExercicioPropostoHashSetESortedSet\bin\Debug\ExercicioPropostoHashSetESortedSet.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoHashSetESortedSet\ExercicioPropostoHashSetESortedSet\obj\Debug\ExercicioPropostoHashSetESortedSet.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoHashSetESortedSet\ExercicioPropostoHashSetESortedSet\obj\Debug\ExercicioPropostoHashSetESortedSet.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoHashSetESortedSet\ExercicioPropostoHashSetESortedSet\obj\Debug\ExercicioPropostoHashSetESortedSet.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioPropostoHashSetESortedSet\ExercicioPropostoHashSetESortedSet\obj\Debug\ExercicioPropostoHashSetESortedSet.pdb
