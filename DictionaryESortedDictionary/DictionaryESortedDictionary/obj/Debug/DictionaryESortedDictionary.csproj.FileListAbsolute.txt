@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\DictionaryESortedDictionary.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\DictionaryESortedDictionary.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DictionaryESortedDictionary\DictionaryESortedDictionary\bin\Debug\DictionaryESortedDictionary.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\DictionaryESortedDictionary.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\DictionaryESortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\DictionaryESortedDictionary.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DictionaryESortedDictionary\DictionaryESortedDictionary\obj\Debug\DictionaryESortedDictionary.pdb
