@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegatesExemplo1\DelegatesExemplo1\bin\Debug\DelegatesExemplo1.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegatesExemplo1\DelegatesExemplo1\bin\Debug\DelegatesExemplo1.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegatesExemplo1\DelegatesExemplo1\bin\Debug\DelegatesExemplo1.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegatesExemplo1\DelegatesExemplo1\obj\Debug\DelegatesExemplo1.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegatesExemplo1\DelegatesExemplo1\obj\Debug\DelegatesExemplo1.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegatesExemplo1\DelegatesExemplo1\obj\Debug\DelegatesExemplo1.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegatesExemplo1\DelegatesExemplo1\obj\Debug\DelegatesExemplo1.pdb
