@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExtensionMethodsCsharp\ExtensionMethodsCsharp\obj\Debug\ExtensionMethodsCsharp.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExtensionMethodsCsharp\ExtensionMethodsCsharp\obj\Debug\ExtensionMethodsCsharp.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExtensionMethodsCsharp\ExtensionMethodsCsharp\bin\Debug\ExtensionMethodsCsharp.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExtensionMethodsCsharp\ExtensionMethodsCsharp\bin\Debug\ExtensionMethodsCsharp.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExtensionMethodsCsharp\ExtensionMethodsCsharp\bin\Debug\ExtensionMethodsCsharp.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExtensionMethodsCsharp\ExtensionMethodsCsharp\obj\Debug\ExtensionMethodsCsharp.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExtensionMethodsCsharp\ExtensionMethodsCsharp\obj\Debug\ExtensionMethodsCsharp.pdb
