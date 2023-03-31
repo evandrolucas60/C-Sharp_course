@@ -1,0 +1,6 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\MultcastDelegates\MultcastDelegates\bin\Debug\MultcastDelegates.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\MultcastDelegates\MultcastDelegates\bin\Debug\MultcastDelegates.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\MultcastDelegates\MultcastDelegates\bin\Debug\MultcastDelegates.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\MultcastDelegates\MultcastDelegates\obj\Debug\MultcastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\MultcastDelegates\MultcastDelegates\obj\Debug\MultcastDelegates.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\MultcastDelegates\MultcastDelegates\obj\Debug\MultcastDelegates.pdb
