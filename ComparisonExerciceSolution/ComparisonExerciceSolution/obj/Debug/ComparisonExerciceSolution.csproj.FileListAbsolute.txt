@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ComparisonExerciceSolution\ComparisonExerciceSolution\bin\Debug\ComparisonExerciceSolution.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ComparisonExerciceSolution\ComparisonExerciceSolution\bin\Debug\ComparisonExerciceSolution.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ComparisonExerciceSolution\ComparisonExerciceSolution\bin\Debug\ComparisonExerciceSolution.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ComparisonExerciceSolution\ComparisonExerciceSolution\obj\Debug\ComparisonExerciceSolution.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ComparisonExerciceSolution\ComparisonExerciceSolution\obj\Debug\ComparisonExerciceSolution.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ComparisonExerciceSolution\ComparisonExerciceSolution\obj\Debug\ComparisonExerciceSolution.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ComparisonExerciceSolution\ComparisonExerciceSolution\obj\Debug\ComparisonExerciceSolution.pdb
