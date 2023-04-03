@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LinqComLambda\LinqComLambda\bin\Debug\LinqComLambda.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LinqComLambda\LinqComLambda\bin\Debug\LinqComLambda.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LinqComLambda\LinqComLambda\bin\Debug\LinqComLambda.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LinqComLambda\LinqComLambda\obj\Debug\LinqComLambda.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LinqComLambda\LinqComLambda\obj\Debug\LinqComLambda.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LinqComLambda\LinqComLambda\obj\Debug\LinqComLambda.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LinqComLambda\LinqComLambda\obj\Debug\LinqComLambda.pdb
