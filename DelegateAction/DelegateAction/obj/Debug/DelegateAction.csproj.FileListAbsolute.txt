@@ -1,0 +1,2 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegateAction\DelegateAction\obj\Debug\DelegateAction.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\DelegateAction\DelegateAction\obj\Debug\DelegateAction.csproj.CoreCompileInputs.cache
