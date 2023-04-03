@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\IntroducaoLINQ.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\IntroducaoLINQ.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\IntroducaoLINQ\IntroducaoLINQ\bin\Debug\IntroducaoLINQ.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\IntroducaoLINQ.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\IntroducaoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\IntroducaoLINQ.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\IntroducaoLINQ\IntroducaoLINQ\obj\Debug\IntroducaoLINQ.pdb
