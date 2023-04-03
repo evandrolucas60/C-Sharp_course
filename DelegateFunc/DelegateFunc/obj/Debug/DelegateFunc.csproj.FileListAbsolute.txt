@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\DelegateFunc\DelegateFunc\bin\Debug\DelegateFunc.exe.config
+C:\Users\evandro.silva\source\repos\DelegateFunc\DelegateFunc\bin\Debug\DelegateFunc.exe
+C:\Users\evandro.silva\source\repos\DelegateFunc\DelegateFunc\bin\Debug\DelegateFunc.pdb
+C:\Users\evandro.silva\source\repos\DelegateFunc\DelegateFunc\obj\Debug\DelegateFunc.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\DelegateFunc\DelegateFunc\obj\Debug\DelegateFunc.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\DelegateFunc\DelegateFunc\obj\Debug\DelegateFunc.exe
+C:\Users\evandro.silva\source\repos\DelegateFunc\DelegateFunc\obj\Debug\DelegateFunc.pdb
