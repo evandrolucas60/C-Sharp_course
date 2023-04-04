@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioLINQResolvido\ExercicioLINQResolvido\bin\Debug\ExercicioLINQResolvido.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioLINQResolvido\ExercicioLINQResolvido\bin\Debug\ExercicioLINQResolvido.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioLINQResolvido\ExercicioLINQResolvido\bin\Debug\ExercicioLINQResolvido.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioLINQResolvido\ExercicioLINQResolvido\obj\Debug\ExercicioLINQResolvido.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioLINQResolvido\ExercicioLINQResolvido\obj\Debug\ExercicioLINQResolvido.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioLINQResolvido\ExercicioLINQResolvido\obj\Debug\ExercicioLINQResolvido.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioLINQResolvido\ExercicioLINQResolvido\obj\Debug\ExercicioLINQResolvido.pdb

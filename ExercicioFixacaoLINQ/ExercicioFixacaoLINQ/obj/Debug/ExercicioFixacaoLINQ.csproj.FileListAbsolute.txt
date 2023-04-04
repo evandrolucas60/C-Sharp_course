@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\ExercicioFixacaoLINQ.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\ExercicioFixacaoLINQ.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\bin\Debug\ExercicioFixacaoLINQ.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\ExercicioFixacaoLINQ.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\ExercicioFixacaoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\ExercicioFixacaoLINQ.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\ExercicioFixacaoLINQ\ExercicioFixacaoLINQ\obj\Debug\ExercicioFixacaoLINQ.pdb
