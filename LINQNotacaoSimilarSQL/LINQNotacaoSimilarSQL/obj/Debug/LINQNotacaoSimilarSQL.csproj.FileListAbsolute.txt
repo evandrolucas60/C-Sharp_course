@@ -1,0 +1,7 @@
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LINQNotacaoSimilarSQL\LINQNotacaoSimilarSQL\bin\Debug\LINQNotacaoSimilarSQL.exe.config
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LINQNotacaoSimilarSQL\LINQNotacaoSimilarSQL\bin\Debug\LINQNotacaoSimilarSQL.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LINQNotacaoSimilarSQL\LINQNotacaoSimilarSQL\bin\Debug\LINQNotacaoSimilarSQL.pdb
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LINQNotacaoSimilarSQL\LINQNotacaoSimilarSQL\obj\Debug\LINQNotacaoSimilarSQL.csproj.AssemblyReference.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LINQNotacaoSimilarSQL\LINQNotacaoSimilarSQL\obj\Debug\LINQNotacaoSimilarSQL.csproj.CoreCompileInputs.cache
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LINQNotacaoSimilarSQL\LINQNotacaoSimilarSQL\obj\Debug\LINQNotacaoSimilarSQL.exe
+C:\Users\evandro.silva\source\repos\C-Sharp_course\LINQNotacaoSimilarSQL\LINQNotacaoSimilarSQL\obj\Debug\LINQNotacaoSimilarSQL.pdb
